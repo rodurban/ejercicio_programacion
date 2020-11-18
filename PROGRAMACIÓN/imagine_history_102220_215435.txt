@@ -1,0 +1,3 @@
+eml dllimport.eml;
+viewer truecolor "c:/sentinel_imagenes/s2a_msil2a_20191112t105301_n0213_r051_t30syj_20191112t121941.img" rgb 4 3 2 transbackground 1;
+viewer autofit toplayer resample "Nearest Neighbor";

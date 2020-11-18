@@ -1,0 +1,30 @@
+IMAGINE Session Log
+-------------------
+
+User: 34655
+Date: Thu Oct 22 21:54:35 2020
+Host: LAPTOP-SI6QEMN9
+OS Version: Windows NT 6.2 Build 9200 
+GPU: Available
+Locale: es-ES
+IMAGINE Version: "ERDAS IMAGINE 2020 "
+Startup Directory: c:\windows\system32
+Session ID: 13988
+
+Starting session log...
+
+22/10/20 21:54:35 SessionMgr(13988): Connection success for the external process 'eWkspace_64'
+22/10/20 21:54:45 eWkspace_64(15140): Loading [import_data.eml]... 
+22/10/20 21:57:12 eml dllimport.eml;
+22/10/20 21:57:42 C:/Program Files/Hexagon/ERDAS IMAGINE 2020/bin/x64URelease/imgcopy.exe -w Importing Sentinel-2 Data -t IMAGINE Image -g FALSE -p FALSE -s 1 c:/sentinel_imagenes/s2a_msil2a_20191112t105301_n0213_r051_t30syj_20191112t121941/s2a_msil2a_2
+0191112t105301_n0213_r051_t30syj_20191112t121941.safe c:/sentinel_imagenes/s2a_msil2a_20191112t105301_n0213_r051_t30syj_20191112t121941.img
+22/10/20 21:57:42 SessionMgr(13988): Unloading [dllimport.eml]...
+22/10/20 22:03:11 SessionMgr(13988): imgcopy.exe exited normally.
+22/10/20 22:04:21 eWkspace_64(15140): Unloading [import_data.eml]...
+22/10/20 22:06:23 eWkspace_64(15140): Loading Truecolor Layers: 	
+22/10/20 22:06:23 	c:/sentinel_imagenes/s2a_msil2a_20191112t105301_n0213_r051_t30syj_20191112t121941.img(:AllBandsAt10Meter_0_MSI~Band_04)
+22/10/20 22:06:23 	c:/sentinel_imagenes/s2a_msil2a_20191112t105301_n0213_r051_t30syj_20191112t121941.img(:AllBandsAt10Meter_0_MSI~Band_03)
+22/10/20 22:06:23 	c:/sentinel_imagenes/s2a_msil2a_20191112t105301_n0213_r051_t30syj_20191112t121941.img(:AllBandsAt10Meter_0_MSI~Band_02)
+22/10/20 22:06:23 
+22/10/20 22:06:24 viewer truecolor "c:/sentinel_imagenes/s2a_msil2a_20191112t105301_n0213_r051_t30syj_20191112t121941.img" rgb 4 3 2 transbackground 1;
+22/10/20 22:06:24 viewer autofit toplayer resample "Nearest Neighbor";

@@ -1,0 +1,28 @@
+IMAGINE Session Log
+-------------------
+
+User: 34655
+Date: Fri Oct 23 16:20:19 2020
+Host: LAPTOP-SI6QEMN9
+OS Version: Windows NT 6.2 Build 9200 
+GPU: Available
+Locale: es-ES
+IMAGINE Version: "ERDAS IMAGINE 2020 "
+Startup Directory: c:\windows\system32
+Session ID: 16332
+
+Starting session log...
+
+23/10/20 16:20:19 SessionMgr(16332): Connection success for the external process 'eWkspace_64'
+23/10/20 16:20:30 eWkspace_64(12176): Loading Truecolor Layers: 	
+23/10/20 16:20:30 	c:/sentinel_imagenes/s2a_msil2a_20191112t105301_n0213_r051_t30syj_20191112t121941.img(:AllBandsAt10Meter_0_MSI~Band_11)
+23/10/20 16:20:30 	c:/sentinel_imagenes/s2a_msil2a_20191112t105301_n0213_r051_t30syj_20191112t121941.img(:AllBandsAt10Meter_0_MSI~Band_08)
+23/10/20 16:20:30 	c:/sentinel_imagenes/s2a_msil2a_20191112t105301_n0213_r051_t30syj_20191112t121941.img(:AllBandsAt10Meter_0_MSI~Band_04)
+23/10/20 16:20:30 
+23/10/20 16:23:23 eWkspace_64(12176): Loading Truecolor Layers: 	
+23/10/20 16:23:23 	c:/sentinel_imagenes/s2a_msil2a_20191112t105301_n0213_r051_t30syj_20191112t121941.img(:AllBandsAt10Meter_0_MSI~Band_04)
+23/10/20 16:23:23 	c:/sentinel_imagenes/s2a_msil2a_20191112t105301_n0213_r051_t30syj_20191112t121941.img(:AllBandsAt10Meter_0_MSI~Band_03)
+23/10/20 16:23:23 	c:/sentinel_imagenes/s2a_msil2a_20191112t105301_n0213_r051_t30syj_20191112t121941.img(:AllBandsAt10Meter_0_MSI~Band_02)
+23/10/20 16:23:23 
+23/10/20 16:23:23 viewer truecolor "c:/sentinel_imagenes/s2a_msil2a_20191112t105301_n0213_r051_t30syj_20191112t121941.img" rgb 4 3 2 transbackground 1;
+23/10/20 16:23:23 viewer autofit toplayer resample "Nearest Neighbor";

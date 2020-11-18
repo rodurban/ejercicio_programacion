@@ -1,0 +1,16 @@
+IMAGINE Session Log
+-------------------
+
+User: 34655
+Date: Sat Oct 24 18:23:43 2020
+Host: LAPTOP-SI6QEMN9
+OS Version: Windows NT 6.2 Build 9200 
+GPU: Available
+Locale: es-ES
+IMAGINE Version: "ERDAS IMAGINE 2020 "
+Startup Directory: c:\windows\system32
+Session ID: 1384
+
+Starting session log...
+
+24/10/20 18:23:43 SessionMgr(1384): Connection success for the external process 'eWkspace_64'
